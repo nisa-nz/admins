@@ -6,11 +6,8 @@
 
 #### 3. Code of Conduct
 
-# 1. Admin entrance and exit assessment forms
-
-
-update this with airtable form directions and anything else
-
+# 1. adminLogs
+> a log of all current and previous nisa admins
 
 # 2. Constitution
 
