@@ -30,11 +30,13 @@ Membership consists of two tiers
 
 - Member
 
+- Leader
+
 # Membership Fees
 
 No membership fees are to be collected.
 
-> ## update with specific positions and roles outline
+# Admins
 
 A table of 3 Admins will sit as directors of NISA
 
@@ -49,6 +51,19 @@ Admin roles and responsibilities are defined as follows:
 > - Vice President: Organize and maintain communication with NISA leaders. Facilitate all NISA events and activities. Assist the President and Secretary when needed.
 
 > - Secretary: Maintain the GitHub repository and Airtable database. Record meetings, coordinate event logistics, and assist the President and Vice President when needed.
+
+# Leaders
+
+Leaders will assist the focus of all NISA activity towards current industry standards
+
+Each month a single leader will join the Admin table to help organize that months events, as well as present a keynote at the end of the month meetup. The leaders keynote must include the following information:
+
+> - their journey into the workforce
+
+> - their current position and duties
+
+> - advice for members as they prepare to enter the workforce
+
 
 # Finance
 
