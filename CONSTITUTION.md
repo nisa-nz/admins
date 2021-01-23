@@ -18,7 +18,7 @@ Maintain interaction between local professionals and students
 
 Support and promote open source activity
 
-Help and contribute to the local community
+Contribute to the local community
 
 To ensure all present and future members receive fair and equal treatment
 
@@ -35,31 +35,20 @@ Membership consists of two tiers
 No membership fees are to be collected.
 
 > ## update with specific positions and roles outline
-<!-- # Admins
 
-A table of 5 to 7 Admins will sit as directors of NISA
+A table of 3 Admins will sit as directors of NISA
 
-Admin roles and responsibilities are shared between the table
-
-Admins may sit at the table for no less than six months and no more than two years
+Admins may sit at the table for no less than six months and no more than one year
 
 Admins must find an agreeable replacement before they leave the table
 
-## Admin Responsibilities
+Admin roles and responsibilities are defined as follows:
 
-- Git – maintain the NISA repo
+> - President: Monitor and guide all NISA activity. Monitor and maintain the NISA website, GitHub repository, and Airtable Database. Help the Vice President to organize and facilitate all NISA events.
 
-- Design – maintain and upgrade NISA design and UI
+> - Vice President: Organize and maintain communication with NISA leaders. Facilitate all NISA events and activities. Assist the President and Secretary when needed.
 
-- Dev – Maintain and upgrade NISA static website
-
-- Media – Maintain and update social media and monthly NISA email
-
-- Voice – Maintain communication between local professionals and NISA
-
-- Calendar – Maintain and update NISA activities dates
-
-- Coordinator – coordinate and secure event location -->
+> - Secretary: Maintain the GitHub repository and Airtable database. Record meetings, coordinate event logistics, and assist the President and Vice President when needed.
 
 # Finance
 
@@ -85,7 +74,3 @@ Amendments to this constitution are allowed only after a unanimous vote to accep
 
 Nelson IT Students Association, also known as NISA, adopts and accepts this constitution as a current operating guide regulating the actions of the association
 
-## Acknowledgment that each Admin has read, understood, and agreed to this constitution can be found in their airtable profile ?? update this
-
-> ###### go to this address and fill in your admin form LINK HERE
->
