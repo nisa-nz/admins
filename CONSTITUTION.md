@@ -24,7 +24,7 @@ To ensure all present and future members receive fair and equal treatment
 
 # Membership
 
-Membership consists of two tiers
+Membership consists of three tiers
 
 - Admin
 
@@ -56,7 +56,7 @@ Admin roles and responsibilities are defined as follows:
 
 Leaders will assist the focus of all NISA activity towards current industry standards
 
-Each month a single leader will join the Admin table to help organize that months events, as well as present a keynote at the end of the month meetup. The leaders keynote must include the following information:
+Each month a single leader will join the Admin table to help organize that months events, as well as present a keynote at the end of the month meetup. The leaders first keynote must include the following information:
 
 > - their journey into the workforce
 
@@ -64,6 +64,7 @@ Each month a single leader will join the Admin table to help organize that month
 
 > - advice for members as they prepare to enter the workforce
 
+Any additional keynotes presented by the leader can be about a topic of their choosing. 
 
 # Finance
 
