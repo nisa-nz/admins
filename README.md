@@ -1,19 +1,9 @@
-# Contents of this Repo
 
-#### 1. Admin entrance and exit assessment forms
-
-#### 2. Constitution
-
-#### 3. Code of Conduct
-
-# 1. adminLogs
-> a log of all current and previous nisa admins
-
-# 2. Constitution
+#  Constitution
 
 > #### [Constitution.md](./CONSTITUTION.md)
 
-# 3. Code of Conduct
+#  Code of Conduct
 
 > ### NISA, as a community, adopts and implements its code of conduct using the current version of the Contributors Covenant.
 
